@@ -151,7 +151,6 @@
     </Compile>
     <Compile Include="Models\AboutModel.cs" />
     <Compile Include="Models\IndexModel.cs" />
-    <Compile Include="Models\RestaurantReview.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
